@@ -1,6 +1,6 @@
-# 50 Projects in 50 Days — HTML/CSS and JavaScript （Day 7）
+# 50 Projects in 50 Days — HTML/CSS and JavaScript （Day 8）
 
-## Day 7 — Split Landing Page :
+## Day 8 — Forme Wave :
 
 the eighth project of 50 projects in 50 days challenge
 
