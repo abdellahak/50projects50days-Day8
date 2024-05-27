@@ -8,6 +8,8 @@ the eighth project of 50 projects in 50 days challenge
 
 ## a preview of the project :
 
-https://github.com/abdellahak/50projects50days-Day8/assets/93621937/8462635e-54ea-4c82-9e44-25f397c7df2e
+https://github.com/abdellahak/50projects50days-Day8/assets/93621937/e8981bb0-af11-46d8-9c9d-f5f7dce9197a
+
+
 
 ## Based on projects from Brad Traversy and Florin Pop's course: <a href="https://50projects50days.com">50 Projects in 50 Days - HTML, CSS, and JavaScript</a>.
